@@ -90,7 +90,7 @@ export default function FeaturedCategories() {
               {/* Text elements */}
               <div className="absolute inset-0 flex flex-col justify-end p-6 z-10">
                 <span className="text-xs font-sans font-medium uppercase tracking-widest text-gold-300 mb-1 opacity-80">
-                  The Cake Crumbles
+                  Eddie&apos;s Patisserie & Café
                 </span>
                 <h3 className="text-lg sm:text-xl font-serif text-cream-50 font-normal">
                   {cat.name}

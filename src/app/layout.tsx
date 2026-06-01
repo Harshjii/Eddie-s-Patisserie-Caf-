@@ -22,14 +22,14 @@ const montserrat = Montserrat({
 });
 
 export const metadata: Metadata = {
-  title: "The Cake Crumbles | Premium Luxury Bakery Kanpur",
-  description: "Experience artisanal dessert perfection. The Cake Crumbles in Kanpur crafts luxurious custom wedding cakes, birthday cakes, chocolate fudge brownies, and premium bakes. Every celebration deserves something sweet.",
+  title: "Eddie's Patisserie & Café | Premium Luxury Bakery Kanpur",
+  description: "Experience artisanal dessert perfection. Eddie's Patisserie & Café in Kanpur crafts luxurious custom wedding cakes, birthday cakes, chocolate fudge brownies, and premium bakes. Every celebration deserves something sweet.",
   keywords: ["bakery kanpur", "custom cakes kanpur", "birthday cakes", "wedding cakes", "brownies", "pastries", "desserts kanpur", "eggless cakes"],
   openGraph: {
-    title: "The Cake Crumbles | Premium Luxury Bakery Kanpur",
+    title: "Eddie's Patisserie & Café | Premium Luxury Bakery Kanpur",
     description: "Every Celebration Deserves Something Sweet. Luxurious cakes, gourmet brownies, and custom bakes.",
     url: "https://thecakecrumbles.com",
-    siteName: "The Cake Crumbles",
+    siteName: "Eddie's Patisserie & Café",
     locale: "en_IN",
     type: "website",
   },

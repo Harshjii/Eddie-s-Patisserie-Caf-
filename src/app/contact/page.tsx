@@ -219,7 +219,7 @@ export default function ContactPage() {
         </div>
         <div className="relative h-[450px] w-full rounded-3xl overflow-hidden shadow-xl border border-gold-500/10 bg-cream-200">
           <iframe
-            title="The Cake Crumbles Kanpur Location"
+            title="Eddie's Patisserie & Café Kanpur Location"
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d114312.30211333333!2d80.228026!3d26.4499232!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399c470bb9a69145%3A0xe9895f32ebf25df1!2sThe%20Cake%20Crumbles!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin"
             width="100%"
             height="100%"

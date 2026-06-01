@@ -18,7 +18,7 @@ interface ReelData {
 const REELS: ReelData[] = [
   {
     id: "reel-1",
-    url: "https://www.instagram.com/reel/C0_dEhiyUAi/",
+    url: "https://www.instagram.com/reel/DXBetUZkyuL/",
     videoPreview: "https://assets.mixkit.co/videos/preview/mixkit-chocolate-syrup-pouring-on-cupcake-34426-large.mp4",
     thumbnail: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&q=80&w=600",
     caption: "Artisanal cake decorating in action! Glazing our signature chocolate creation. ✨🎂 #bakinglove #kanpurcakes",
@@ -27,7 +27,7 @@ const REELS: ReelData[] = [
   },
   {
     id: "reel-2",
-    url: "https://www.instagram.com/reel/C29O801SVJR/",
+    url: "https://www.instagram.com/reel/DV2P6PcE2ix/",
     videoPreview: "https://assets.mixkit.co/videos/preview/mixkit-pouring-chocolate-sauce-on-a-brownie-40018-large.mp4",
     thumbnail: "https://images.unsplash.com/photo-1519869325930-281384150729?auto=format&fit=crop&q=80&w=600",
     caption: "Satisfying chocolate drizzle over fresh, fudgy chocolate brownies. Box yours today! 🍫🤎 #brownies #kanpur",
@@ -36,7 +36,7 @@ const REELS: ReelData[] = [
   },
   {
     id: "reel-3",
-    url: "https://www.instagram.com/reel/DYz6avPzIGE/",
+    url: "https://www.instagram.com/reel/CeqlRklOSqd/",
     videoPreview: "https://assets.mixkit.co/videos/preview/mixkit-pastry-chef-decorating-a-chocolate-cake-34431-large.mp4",
     thumbnail: "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?auto=format&fit=crop&q=80&w=600",
     caption: "A sneak peek into the creation of our master tiered wedding fondant designs. 👩‍🍳🍰 #weddingcakes #pastrychef",
@@ -45,7 +45,7 @@ const REELS: ReelData[] = [
   },
   {
     id: "reel-4",
-    url: "https://www.instagram.com/reel/C0_dEhiyUAi/", // Fallbacks for slider visual balance
+    url: "https://www.instagram.com/reel/DXBetUZkyuL/", // Fallbacks for slider visual balance
     videoPreview: "https://assets.mixkit.co/videos/preview/mixkit-pastry-chef-dusting-powdered-sugar-on-muffins-34432-large.mp4",
     thumbnail: "https://images.unsplash.com/photo-1550617931-e17a7b70dce2?auto=format&fit=crop&q=80&w=600",
     caption: "Freshly baked sugar-dusted cupcakes! Light, fluffy and absolutely delicious. 🧁✨ #cupcakes #bakerylife",
@@ -54,7 +54,7 @@ const REELS: ReelData[] = [
   },
   {
     id: "reel-5",
-    url: "https://www.instagram.com/reel/C29O801SVJR/",
+    url: "https://www.instagram.com/reel/DV2P6PcE2ix/",
     videoPreview: "https://assets.mixkit.co/videos/preview/mixkit-pastry-chef-preparing-a-cake-in-a-kitchen-34430-large.mp4",
     thumbnail: "https://images.unsplash.com/photo-1551024506-0bccd828d307?auto=format&fit=crop&q=80&w=600",
     caption: "Behind the scenes of our kitchen preparing premium fresh-fruit cakes! 🍎🍓 #freshfruit #kanpurbakes",

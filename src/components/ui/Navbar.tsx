@@ -55,13 +55,13 @@ export default function Navbar() {
             <div className="relative w-10 h-10 overflow-hidden rounded-full border border-gold-500/15 bg-white flex items-center justify-center shadow-sm">
               <Image
                 src="/images/logo.png"
-                alt="The Cake Crumbles Logo"
+                alt="Eddie's Patisserie & Café Logo"
                 fill
                 className="object-cover scale-115"
               />
             </div>
             <span className="text-lg sm:text-xl font-serif tracking-wide text-chocolate-900 group-hover:text-gold-600 transition-colors duration-300">
-              The Cake <span className="font-light italic text-gold-500">Crumbles</span>
+              Eddie&apos;s <span className="font-light italic text-gold-500">Patisserie & Café</span>
             </span>
           </Link>
 

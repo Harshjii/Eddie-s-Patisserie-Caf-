@@ -6,7 +6,7 @@ import { SITE_CONFIG } from "@/config/site";
 
 export default function FloatingWhatsApp() {
   const textMessage = encodeURIComponent(
-    "Hello! I am visiting The Cake Crumbles website and would like to inquire about ordering a delicious cake."
+    "Hello! I am visiting Eddie's Patisserie & Café website and would like to inquire about ordering a delicious cake."
   );
   const waUrl = `https://wa.me/${SITE_CONFIG.whatsappNumber}?text=${textMessage}`;
 

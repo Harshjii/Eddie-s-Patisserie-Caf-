@@ -47,7 +47,7 @@ export default function WhyChooseUs() {
               Into Every Crumb
             </h3>
             <p className="text-sm font-sans text-chocolate-700/80 leading-relaxed">
-              At The Cake Crumbles, we believe a cake is not just dessert; it is the center of your celebration. That is why we dedicate hours of details to crafting the flavors and designs that Kanpur families have trusted for years.
+              At Eddie&apos;s Patisserie & Café, we believe a cake is not just dessert; it is the center of your celebration. That is why we dedicate hours of details to crafting the flavors and designs that Kanpur families have trusted for years.
             </p>
             <div className="w-24 h-0.5 bg-gold-400 mt-6" />
 

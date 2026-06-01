@@ -11,7 +11,7 @@ export interface Product {
 }
 
 export const SITE_CONFIG = {
-  name: "The Cake Crumbles",
+  name: "Eddie's Patisserie & Café",
   tagline: "Every Celebration Deserves Something Sweet",
   location: "Kanpur, Uttar Pradesh, India",
   googleMapsUrl: "https://www.google.co.in/maps/place/The+Cake+Crumbles/",
@@ -165,7 +165,7 @@ export const SITE_CONFIG = {
       name: "Shreya Verma",
       role: "Kanpur Foodie",
       rating: 5,
-      comment: "The Cake Crumbles is my absolute go-to for celebrations. Their Trio Gourmet Brownie box is a literal work of art, so fudgy and flavorful! Kanpur needed a high-end bakery like this.",
+      comment: "Eddie's Patisserie & Café is my absolute go-to for celebrations. Their Trio Gourmet Brownie box is a literal work of art, so fudgy and flavorful! Kanpur needed a high-end bakery like this.",
       photo: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=150"
     },
     {
@@ -206,7 +206,7 @@ export const SITE_CONFIG = {
   instagramReels: [
     {
       id: "reel1",
-      url: "https://www.instagram.com/reel/C0_dEhiyUAi/",
+      url: "https://www.instagram.com/reel/DXBetUZkyuL/",
       thumbnail: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&q=80&w=500",
       caption: "Baking fresh artisanal goodness daily. Watch our master chef glaze our signature creations! ✨🎂",
       views: "15.4K",
@@ -214,7 +214,7 @@ export const SITE_CONFIG = {
     },
     {
       id: "reel2",
-      url: "https://www.instagram.com/reel/C29O801SVJR/",
+      url: "https://www.instagram.com/reel/DV2P6PcE2ix/",
       thumbnail: "https://images.unsplash.com/photo-1519869325930-281384150729?auto=format&fit=crop&q=80&w=500",
       caption: "Chocolate overloaded fudge brownies being boxed for order. Satisfy your sweet tooth today! 🍫🤎",
       views: "24.1K",
@@ -222,7 +222,7 @@ export const SITE_CONFIG = {
     },
     {
       id: "reel3",
-      url: "https://www.instagram.com/reel/DYz6avPzIGE/",
+      url: "https://www.instagram.com/reel/CeqlRklOSqd/",
       thumbnail: "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?auto=format&fit=crop&q=80&w=500",
       caption: "A sneak peek behind the scenes of our luxurious Custom Fondant Cakes creation process! 👩‍🍳🍰",
       views: "42.8K",

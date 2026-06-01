@@ -58,7 +58,7 @@ export default function OrderPage() {
 ${formData.specialInstructions || "None specified"}
 ${fileName ? `🖼️ *Attached Reference Sketch:* ${fileName} (Ready to send)` : ""}
 -----------------------------
-🧁 *The Cake Crumbles Kanpur*`;
+🧁 *Eddie's Patisserie & Café Kanpur*`;
 
     const encodedMessage = encodeURIComponent(message);
     const waUrl = `https://wa.me/${SITE_CONFIG.whatsappNumber}?text=${encodedMessage}`;
@@ -305,7 +305,7 @@ ${fileName ? `🖼️ *Attached Reference Sketch:* ${fileName} (Ready to send)` 
               <div className="flex items-start space-x-3 text-xs text-chocolate-600/80 bg-gold-100/30 p-4 rounded-xl border border-gold-500/5">
                 <AlertCircle className="w-4 h-4 text-gold-500 shrink-0 mt-0.5" />
                 <p className="leading-relaxed">
-                  **Note:** Clicking order compiles these specifications and opens a chat directly with **The Cake Crumbles** kitchen. You can send the reference image file inside the WhatsApp window once it launches.
+                  **Note:** Clicking order compiles these specifications and opens a chat directly with **Eddie&apos;s Patisserie & Café** kitchen. You can send the reference image file inside the WhatsApp window once it launches.
                 </p>
               </div>
 

@@ -14,7 +14,7 @@ const TIMELINE_EVENTS: TimelineEvent[] = [
   {
     year: "2018",
     title: "A Sweet Beginning",
-    description: "The Cake Crumbles was born in a cozy home kitchen in Kanpur, founded by Pallavi Jalan out of a deep passion for baking rustic, flavorful, and beautiful bakes.",
+    description: "Eddie's Patisserie & Café was born in a cozy home kitchen in Kanpur, founded by Pallavi Jalan out of a deep passion for baking rustic, flavorful, and beautiful bakes.",
   },
   {
     year: "2020",
@@ -55,7 +55,7 @@ export default function AboutPage() {
             Our Story
           </h1>
           <p className="text-sm sm:text-base font-sans text-cream-200/80 uppercase tracking-widest">
-            The Journey of Pallavi Jalan & The Cake Crumbles
+            The Journey of Pallavi Jalan & Eddie&apos;s Patisserie & Café
           </p>
         </div>
       </section>
@@ -67,7 +67,7 @@ export default function AboutPage() {
           <div className="lg:col-span-5 relative h-[500px] rounded-3xl overflow-hidden shadow-xl border border-gold-500/10">
             <Image
               src="/images/dessert_claypot.png" // Featuring a photo showing the logo with the founder's name
-              alt="The Cake Crumbles by Pallavi Jalan"
+              alt="Eddie's Patisserie & Café by Pallavi Jalan"
               fill
               className="object-cover"
             />
@@ -92,7 +92,7 @@ export default function AboutPage() {
               Artisanal Dedication
             </h3>
             <p className="text-sm font-sans text-chocolate-700/80 leading-relaxed">
-              Founded in Kanpur in 2018, **The Cake Crumbles** started with a simple belief: *every celebration deserves something sweet*. Founder **Pallavi Jalan** began baking in her home kitchen, driven by an obsession to perfect the texture of eggless sponges, the creaminess of ganache, and the aesthetic elegance of dessert styling.
+              Founded in Kanpur in 2018, **Eddie&apos;s Patisserie & Café** started with a simple belief: *every celebration deserves something sweet*. Founder **Pallavi Jalan** began baking in her home kitchen, driven by an obsession to perfect the texture of eggless sponges, the creaminess of ganache, and the aesthetic elegance of dessert styling.
             </p>
             <p className="text-sm font-sans text-chocolate-700/80 leading-relaxed">
               Every brownie box, matka dessert, and tiered wedding cake that leaves our kitchen is hand-crafted with meticulous detail. We have stayed true to our roots by prioritizing pure ingredients, innovative flavor palettes, and tailored customization for each customer.
@@ -189,7 +189,7 @@ export default function AboutPage() {
             Our Quality Commitment
           </h3>
           <p className="text-sm font-sans text-chocolate-700/80 max-w-2xl leading-relaxed">
-            At The Cake Crumbles, we refuse to compromise. We do not use industrial cake pre-mixes, margarine, or cheap compounds. Every icing is whipped from fresh dairy cream or imported chocolates. We pledge to deliver a cake that tastes just as magical as it looks, every single time.
+            At Eddie&apos;s Patisserie & Café, we refuse to compromise. We do not use industrial cake pre-mixes, margarine, or cheap compounds. Every icing is whipped from fresh dairy cream or imported chocolates. We pledge to deliver a cake that tastes just as magical as it looks, every single time.
           </p>
         </div>
       </section>

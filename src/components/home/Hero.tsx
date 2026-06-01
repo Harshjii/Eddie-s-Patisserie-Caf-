@@ -3,7 +3,6 @@
 import Image from "next/image";
 import Link from "next/link";
 import { motion } from "framer-motion";
-import { Sparkles } from "lucide-react";
 
 export default function Hero() {
   return (
@@ -65,19 +64,6 @@ export default function Hero() {
 
       {/* Main Content */}
       <div className="relative z-20 max-w-5xl mx-auto px-6 text-center flex flex-col items-center">
-        {/* Subtitle Badge */}
-        <motion.div
-          initial={{ opacity: 0, y: 15 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.6 }}
-          className="inline-flex items-center space-x-2 px-4 py-1.5 rounded-full bg-gold-100/50 border border-gold-400/20 text-gold-600 mb-8"
-        >
-          <Sparkles className="w-3.5 h-3.5" />
-          <span className="text-xs font-sans font-medium uppercase tracking-widest">
-            Kanpur&apos;s Finest Artisanal Bakery
-          </span>
-        </motion.div>
-
         {/* Headline */}
         <motion.h1
           initial={{ opacity: 0, y: 20 }}

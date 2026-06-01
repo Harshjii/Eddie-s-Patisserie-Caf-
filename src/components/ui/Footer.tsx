@@ -28,13 +28,13 @@ export default function Footer() {
             <div className="relative w-12 h-12 overflow-hidden rounded-full border border-gold-500/15 bg-white flex items-center justify-center p-1 shadow-sm shrink-0">
               <Image
                 src="/images/logo.png"
-                alt="The Cake Crumbles Logo"
+                alt="Eddie's Patisserie & Café Logo"
                 fill
                 className="object-cover scale-115"
               />
             </div>
             <span className="text-xl font-serif tracking-wider text-cream-50 font-normal">
-              The Cake <span className="italic text-gold-400">Crumbles</span>
+              Eddie&apos;s <span className="italic text-gold-400">Patisserie & Café</span>
             </span>
           </Link>
           <p className="text-sm font-sans italic text-cream-200/70 max-w-xs">
